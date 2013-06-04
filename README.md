@@ -1,4 +1,4 @@
 juancollab
 ==========
 
-My colloraboration with Juan
+A collaboration between Elliott Hauser and Juan Velez
